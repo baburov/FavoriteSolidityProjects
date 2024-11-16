@@ -47,10 +47,11 @@
 	},
 	"sources": {
 		"Hello World/contracts/my_contract.sol": {
-			"keccak256": "0x640d0942a0f93a8ecc32cbba0a63df4dfc228e9d01903dd8942e9b4d34199279",
+			"keccak256": "0x2f19e5115521b6bb8357da609996812f92403b48220cfdb915842113c7d4170f",
+			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://db59c96ac0b0414441c6f7c4a4a4d37047bb122045741f39437b8b990cfb6639",
-				"dweb:/ipfs/QmaSeZ7GyyboFRyK3ABULVcvKG9PawKSCVbp2BQyikup1y"
+				"bzz-raw://c19824e000cc8fb3fde1325da54461bdbccf4ece75ae6d743c6f82384203ab77",
+				"dweb:/ipfs/QmUrvUa7T7KWzAvZFoDFiNhQFsVKELxnujSJ4zsqEkddTc"
 			]
 		}
 	},
